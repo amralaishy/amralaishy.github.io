@@ -1,112 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>Amro Eleishy | Senior Network Security Engineer</title>
-
-<meta name="description"
-content="Senior Network Security Engineer | Fortinet | SD-WAN | Firewalls | CCIE | Cybersecurity">
-
+<title>{{ site.title }}</title>
 <link rel="stylesheet" href="style.css">
-
-<!-- Font Awesome -->
-<link rel="stylesheet"
-href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
 </head>
 <body>
 
-<nav>
-  <a href="#about">About</a>
-  <a href="#skills">Skills</a>
-  <a href="#experience">Experience</a>
-  <a href="#cv">CV</a>
-  <a href="#contact">Contact</a>
-</nav>
-
 <header class="hero">
-  <img src="images/profile.jpg" class="profile-img" alt="Amro Eleishy">
-
-  <h1>Amro Ahmed Ahmed Eleishy</h1>
-  <h2>Senior Network Security Engineer</h2>
-  <p>Fortinet • SD-WAN • Firewalls • Enterprise Security</p>
-
-  <div class="buttons">
-    <a href="Amro Ahmed Ahmed Al Aishy_C2025.pdf" download class="btn">
-      <i class="fa-solid fa-download"></i> Download CV (PDF)
-    </a>
-    <a href="https://www.linkedin.com/in/amr-ahmed-ab89abb5/"
-       target="_blank" class="btn outline">
-      <i class="fa-brands fa-linkedin"></i> LinkedIn
-    </a>
-  </div>
+  <img src="assets/images/profile.jpg" class="profile">
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
+  <a href="assets/cv/Amro_CV.pdf" class="btn">Download CV</a>
 </header>
 
-<section id="about">
-<h3><i class="fa-solid fa-user"></i> About</h3>
-<p>
-Senior Network Security Engineer with 10+ years of experience designing and securing
-enterprise infrastructures across Kuwait and KSA.
-Expert in Fortinet, Cisco, Palo Alto firewalls, SD-WAN, VPN, disaster recovery,
-and high-availability network architectures.
-</p>
-</section>
+<section>{% include_relative content/about.md %}</section>
+<section>{% include_relative content/skills.md %}</section>
+<section>{% include_relative content/experience.md %}</section>
+<section>{% include_relative content/certifications.md %}</section>
+<section>{% include_relative content/contact.md %}</section>
 
-<section id="skills">
-<h3><i class="fa-solid fa-shield-halved"></i> Core Skills</h3>
-<div class="grid">
-  <div>FortiGate / FortiManager / FortiAnalyzer / FortiWeb</div>
-  <div>SD-WAN / ADVPN / MPLS / BGP</div>
-  <div>Firewall Security Policies</div>
-  <div>IPsec & SSL VPN</div>
-  <div>Cisco ASA / Palo Alto</div>
-  <div>Wireless: Cisco / Aruba / Ruckus</div>
-  <div>Disaster Recovery & BCP</div>
-  <div>Python Automation</div>
-</div>
-</section>
-
-<section id="experience">
-<h3><i class="fa-solid fa-briefcase"></i> Experience</h3>
-
-<div class="card">
-<h4>Abyat Megastore – Senior Network Security Engineer</h4>
-<p>
-Enterprise firewall, SD-WAN, VPN, WAF, centralized logging,
-cost optimization, and 24×7 availability.
-</p>
-</div>
-
-<div class="card">
-<h4>Cisco Kuwait (MOE) – Network Consultant Engineer</h4>
-<p>
-Cisco Prime, AAA, Dot1X, OSPF, BGP, STP,
-system infrastructure analysis and upgrades.
-</p>
-</div>
-</section>
-
-<!-- PDF PREVIEW -->
-<section id="cv">
-<h3><i class="fa-solid fa-file-pdf"></i> CV Preview</h3>
-
-<iframe src="Amro Ahmed Ahmed Al Aishy_C2025.pdf"
-        width="100%" height="600px"
-        style="border:1px solid #30363d;">
-</iframe>
-</section>
-
-<section id="contact">
-<h3><i class="fa-solid fa-envelope"></i> Contact</h3>
-<p><i class="fa-solid fa-envelope"></i> amr.alaishy@gmail.com</p>
-<p><i class="fa-solid fa-phone"></i> +965 98008440</p>
-</section>
-
-<footer>
-© 2026 Amro Eleishy
-</footer>
+<footer>© 2026 Amro Eleishy</footer>
 
 </body>
 </html>
