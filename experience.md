@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/css/style.css">
 # Experience
 
 ## Senior Network Security Engineer  
