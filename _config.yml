@@ -1,5 +1,6 @@
-title: Amro Eleishy
-description: Senior Network Engineer – Skills, Certifications & Experience
+
+title: Amro Ahmed Eleishy
+description: Senior Network Security Engineer | Firewall, SD-WAN, Cloud & Enterprise Networking
 baseurl: ""
 url: "https://amralaishy.github.io"
 
@@ -9,3 +10,4 @@ header_pages:
   - skills.md
   - certifications.md
   - experience.md
+``
