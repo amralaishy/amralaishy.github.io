@@ -1,9 +1,6 @@
-
-<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
 <script>
-  const storedTheme = localStorage.getItem("theme");
-  if (storedTheme === "dark") {
+  const savedTheme = localStorage.getItem("theme");
+  if (savedTheme === "dark") {
     document.documentElement.setAttribute("data-theme", "dark");
   }
 </script>
