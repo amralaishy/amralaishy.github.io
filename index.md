@@ -6,7 +6,7 @@ layout: home
 
 **Senior Network Security Engineer**
 
-📍 Kuwait  
+📍 Kuwait. 
 📧 amr.alaishy@gmail.com  
 🔗 GitHub: https://github.com/amralaishy  
 🔗 LinkedIn: https://www.linkedin.com/in/amr-ahmed-ab89abb5/
