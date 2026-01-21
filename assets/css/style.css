@@ -1,30 +1,90 @@
-# Skills
+/* ===== Google Font ===== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
-## Network & Security
-- Enterprise Network Architecture & Design
-- Firewall Management & Threat Mitigation
-- Disaster Recovery & Business Continuity
-- High Availability & Fault‑Tolerant Architectures
+/* ===== Reset ===== */
+* {
+  box-sizing: border-box;
+}
 
-## Protocols & Technologies
-- BGP, OSPF, STP
-- SD‑WAN, IPsec VPN, SSL VPN
-- AAA, SNMP
-- Cloud Networking
+/* ===== Page Base ===== */
+html, body {
+  margin: 0;
+  padding: 0;
+}
 
-## Firewalls & Security Platforms
-- Fortinet (FortiGate, FortiManager, FortiAnalyzer, FortiWeb)
-- Cisco ASA
-- Palo Alto Networks
+/* ===== Body ===== */
+body {
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Helvetica, Arial, sans-serif;
+  background-color: #0d1117;
+  color: #e6edf3;
+  font-size: 16px;
+  line-height: 1.65;
+}
 
-## Wireless & Unified Communications
-- Cisco Wireless LAN Controller (WLC)
-- Aruba & Ruckus Controllers
-- Cisco Unified Communication Manager (UCM)
-- Huawei IP Telephony
+/* ===== Main Content Container ===== */
+body > * {
+  max-width: 900px;
+  margin: auto;
+  padding: 28px;
+}
 
-## Monitoring & Management
-- Cisco Prime Infrastructure
-- Cisco ISE
-- Centralized Logging & Security Analytics
-``
+/* ===== Headings ===== */
+h1 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-top: 48px;
+  margin-bottom: 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #30363d;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 32px;
+}
+
+/* ===== Paragraphs & Lists ===== */
+p, li {
+  color: #c9d1d9;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+/* ===== Links ===== */
+a {
+  color: #58a6ff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Horizontal Rule ===== */
+hr {
+  border: none;
+  border-top: 1px solid #30363d;
+  margin: 36px 0;
+}
+
+/* ===== Cards (Experience / Projects blocks) ===== */
+.card {
+  background-color: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 10px;
+  padding: 22px;
