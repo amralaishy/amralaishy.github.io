@@ -5,5 +5,5 @@ theme: minima
 
 header_pages:
   - _pages/skills.md
-  - _pages/certifications.md
   - _pages/experience.md
+  - _pages/certifications.md
