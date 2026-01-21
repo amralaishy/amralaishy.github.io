@@ -1,4 +1,3 @@
-
 ---
 layout: home
 ---
@@ -16,14 +15,9 @@ layout: home
 
 ## Professional Summary
 
-Seasoned **Senior Network Security Engineer** with over **10+ years of hands‑on experience**
-in designing, implementing, and securing large‑scale IT infrastructures across **retail,
-education, and telecommunications sectors**.
+Seasoned **Senior Network Security Engineer** with over **10+ years of hands‑on experience** in designing, implementing, and securing large‑scale IT infrastructures across **retail, education, and telecommunications sectors**.
 
-Specialized in **multi‑vendor firewall environments (Fortinet, Cisco, Palo Alto)**,
-**SD‑WAN**, **cloud networking**, and **disaster recovery**. Proven track record in
-enhancing network uptime, reducing infrastructure costs, and delivering highly available
-and secure network solutions aligned with business objectives.
+Specialized in **multi‑vendor firewall environments (Fortinet, Cisco, Palo Alto)**, **SD‑WAN**, cloud networking, and disaster recovery.
 
-➡️ View detailed **Skills, Certifications, and Experience** using the menu above. 
+Proven track record in enhancing network uptime, reducing infrastructure costs, and delivering secure, high‑availability network solutions aligned with business objectives.
 ``
