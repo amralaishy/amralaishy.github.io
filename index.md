@@ -2,6 +2,7 @@
 **Senior Network Security Engineer**
 
 📍 Kuwait , Saudi Arabia , Qatar
+
 📧 amr.alaishy@gmail.com  
 🔗 [GitHub](https://github.com/amralaishy)  
 🔗 [LinkedIn](https://www.linkedin.com/in/amr-ahmed-ab89abb5/)
