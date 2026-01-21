@@ -25,5 +25,5 @@ Specialized in **multi‑vendor firewall environments (Fortinet, Cisco, Palo Alt
 enhancing network uptime, reducing infrastructure costs, and delivering highly available
 and secure network solutions aligned with business objectives.
 
-➡️ View detailed **Skills, Certifications, and Experience** using the menu above.
+➡️ View detailed **Skills, Certifications, and Experience** using the menu above. 
 ``
