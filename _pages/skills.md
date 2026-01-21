@@ -1,9 +1,8 @@
-
 ---
 layout: page
 title: Skills
+permalink: /skills/
 ---
-
 ## Network & Security Architecture
 - Enterprise Network Design
 - Firewall Management & Threat Mitigation
