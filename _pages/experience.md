@@ -1,9 +1,8 @@
-
 ---
 layout: page
 title: Experience
+permalink: /experience/
 ---
-
 ## Senior Network Security Engineer  
 **Abyat Megastore – Kuwait, KSA & Qatar**  
 *Feb 2021 – Present*
