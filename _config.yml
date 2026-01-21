@@ -1,4 +1,12 @@
+
 title: Amro Eleishy
-description: Senior Network Security Engineer | Fortinet | SD-WAN | Firewalls
-theme: null
-markdown: kramdown
+description: Senior Network Engineer – Skills, Certifications & Experience
+baseurl: ""
+url: "https://amralaishy.github.io"
+
+theme: minima
+
+header_pages:
+  - skills.md
+  - certifications.md
+  - experience.md
