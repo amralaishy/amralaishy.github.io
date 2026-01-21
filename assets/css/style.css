@@ -1,0 +1,50 @@
+
+/* Default (Light Mode) */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #1f2328;
+  --link-color: #0969da;
+  --card-color: #f6f8fa;
+}
+
+/* Dark Mode */
+[data-theme="dark"] {
+  --bg-color: #0d1117;
+  --text-color: #e6edf3;
+  --link-color: #58a6ff;
+  --card-color: #161b22;
+}
+
+/* Apply variables */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+/* Links */
+a {
+  color: var(--link-color);
+}
+
+/* Sections / boxes */
+.page-content,
+.post-content,
+.wrapper {
+  background-color: var(--bg-color);
+}
+
+/* Headers */
+h1, h2, h3, h4 {
+  color: var(--text-color);
+}
+
+/* Navigation */
+.site-header {
+  background-color: var(--card-color);
+}
+
+/* Footer */
+.site-footer {
+  background-color: var(--card-color);
+}
+``
