@@ -1,9 +1,8 @@
-
 ---
 layout: page
 title: Certifications
+permalink: /certifications/
 ---
-
 ## Professional Certifications
 
 - Cisco **CCIE Routing & Switching** (#64862)
