@@ -1,50 +1,88 @@
+/* Import Inter font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
-/* Default (Light Mode) */
-:root {
-  --bg-color: #ffffff;
-  --text-color: #1f2328;
-  --link-color: #0969da;
-  --card-color: #f6f8fa;
+/* Base Reset */
+* {
+  box-sizing: border-box;
 }
 
-/* Dark Mode */
-[data-theme="dark"] {
-  --bg-color: #0d1117;
-  --text-color: #e6edf3;
-  --link-color: #58a6ff;
-  --card-color: #161b22;
-}
-
-/* Apply variables */
+/* Global styles */
 body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
+  margin: 0;
+  padding: 0;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI",
+               Roboto, Helvetica, Arial, sans-serif;
+  background-color: #0d1117;
+  color: #e6edf3;
+  line-height: 1.7;
+  font-size: 16px;
+}
+
+/* Content width */
+body > * {
+  max-width: 900px;
+  margin: auto;
+  padding: 24px;
+}
+
+/* Headings */
+h1 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-top: 40px;
+  border-bottom: 1px solid #30363d;
+  padding-bottom: 8px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+/* Text */
+p, li {
+  color: #c9d1d9;
 }
 
 /* Links */
 a {
-  color: var(--link-color);
+  color: #58a6ff;
+  text-decoration: none;
 }
 
-/* Sections / boxes */
-.page-content,
-.post-content,
-.wrapper {
-  background-color: var(--bg-color);
+a:hover {
+  text-decoration: underline;
 }
 
-/* Headers */
-h1, h2, h3, h4 {
-  color: var(--text-color);
+/* Sections */
+section, hr {
+  margin: 32px 0;
 }
 
-/* Navigation */
-.site-header {
-  background-color: var(--card-color);
+/* Lists */
+ul {
+  padding-left: 18px;
 }
 
-/* Footer */
-.site-footer {
-  background-color: var(--card-color);
+/* Cards (Experience / Projects blocks) */
+.card {
+  background-color: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Footer spacing */
+footer {
+  opacity: 0.7;
+  font-size: 14px;
+  margin-top: 60px;
 }
 ``
