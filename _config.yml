@@ -1,9 +1,18 @@
+
 title: Amro Ahmed Eleishy
+email: amr.alaishy@gmail.com
 description: Senior Network Security Engineer | Firewall, SD-WAN, Cloud & Enterprise Networking
 url: https://amralaishy.github.io
+
 theme: minima
 
+# Custom styles (for dark mode)
+sass:
+  style: compressed
+
+# Navigation menu
 header_pages:
   - _pages/skills.md
   - _pages/experience.md
   - _pages/certifications.md
+``
