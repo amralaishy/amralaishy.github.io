@@ -20,4 +20,4 @@ implementing, and securing large‑scale IT infrastructures across **retail, edu
 and telecommunications sectors**.
 
 Specialized in **multi‑vendor firewall environments (Fortinet, Cisco, Palo Alto)**,
-**SD‑WAN**, cloud networking, and disaster recovery..
+**SD‑WAN**, cloud networking, and disaster recovery...
