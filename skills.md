@@ -1,44 +1,19 @@
+# Skills
 
----
-layout: page
-title: Skills
----
-
-## Network & Security Architecture
-- Enterprise Network Design
-- Firewall Management & Threat Mitigation
+## Network & Security
+- Network Architecture & Design
+- Firewall Management (Fortinet, Cisco, Palo Alto)
 - Disaster Recovery & Business Continuity
-- High Availability & Fault‑Tolerant Architectures
+- High Availability & Fault‑Tolerance
 
 ## Protocols & Technologies
 - BGP, OSPF, STP
-- SD‑WAN
+- SD‑WAN, IPsec, SSL VPN
 - AAA, SNMP
 - Cloud Networking
-- Virtualization (Huawei VDI, OceanStore)
 
-## Firewalls & Security Platforms
-- Fortinet (FortiGate, FortiManager, FortiAnalyzer, FortiWeb)
-- Cisco ASA
-- Palo Alto Networks
-
-## Wireless & Unified Communications
-- Cisco Wireless LAN Controller (WLC)
-- Aruba & Ruckus Controllers
-- Cisco Unified Communication Manager (UCM)
-- Huawei IP Telephony & VOIP Systems
-
-## Monitoring & Management Tools
-- Cisco Prime Infrastructure
-- Cisco ISE
-- Centralized Logging & Security Analytics
-
-## Infrastructure & Surveillance
-- Vendors: Cisco, Huawei, Aruba, HP
-- CCTV Systems: Milestone, Avigilon, Hikvision, Dahua, Geovision
-
-## Leadership & Professional Skills
-- Technical Leadership & Mentorship
-- Pre‑Sales & Technical Consultation
-- Vendor & Project Coordination
+## Wireless & VOIP
+- Cisco WLC, Aruba, Ruckus
+- Cisco UCM
+- Huawei IP Telephony
 ``
