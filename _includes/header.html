@@ -1,0 +1,20 @@
+
+<button
+  style="float:right; margin-top:10px; cursor:pointer; background:none; border:none; font-size:18px"
+  onclick="toggleTheme()"
+  aria-label="Toggle dark mode">
+  🌙
+</button>
+
+<script>
+  function toggleTheme() {
+    const currentTheme = document.documentElement.getAttribute("data-theme");
+    if (currentTheme === "dark") {
+      document.documentElement.removeAttribute("data-theme");
+      localStorage.setItem("theme", "light");
+    } else {
+      document.documentElement.setAttribute("data-theme", "dark");
+      localStorage.setItem("theme", "dark");
+    }
+  }
+</script>
