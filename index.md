@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/css/style.css">
 # Amro Ahmed Eleishy  
 **Senior Network Security Engineer**
 
