@@ -88,3 +88,20 @@ hr {
   border: 1px solid #30363d;
   border-radius: 10px;
   padding: 22px;
+
+/* ===== Download CV Button ===== */
+.cv-button {
+  display: inline-block;
+  margin-top: 16px;
+  padding: 10px 18px;
+  border-radius: 6px;
+  background-color: #238636;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.cv-button:hover {
+  background-color: #2ea043;
+}
