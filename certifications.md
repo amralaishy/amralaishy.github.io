@@ -38,6 +38,11 @@
   <img src="/assets/certs/Fortigate Administrator.png" alt="FortiGate Administrator Certificate">
 </div>
 
+### SD‑WAN Architect
+<div class="certificate">
+  <img src="/assets/certs/SD-WAN Architect.png" alt="SD-WAN Architect Certificate">
+</div>
+
 ### FortiAnalyzer Administrator
 <div class="certificate">
   <img src="/assets/certs/Fortianalyzer Adminisrtator.png" alt="FortiAnalyzer Administrator Certificate">
@@ -57,7 +62,4 @@
   <img src="/assets/certs/PMP.png" alt="PMP Certificate">
 </div>
 
-### SD‑WAN Architect
-<div class="certificate">
-  <img src="/assets/certs/SD-WAN Architect.png" alt="SD-WAN Architect Certificate">
-</div>
+
