@@ -88,3 +88,20 @@ hr {
   border: 1px solid #30363d;
   border-radius: 10px;
   padding: 22px;
+
+
+
+/* ===== Certificate Section ===== */
+.certificate {
+  margin-top: 16px;
+}
+
+.certificate img {
+  max-width: 320px;
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid #30363d;
+  background-color: #ffffff;
+  padding: 10px;
+}
+``
