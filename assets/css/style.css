@@ -101,7 +101,7 @@ hr {
 .certificate img {
   width: 100%;
   height: 100%;
-  object-fit: cover;   /* ✅ uniform display */
+  object-fit: contain;   /* ✅ uniform display */
   border-radius: 10px;
   border: 1px solid #30363d;
   background-color: #ffffff;
