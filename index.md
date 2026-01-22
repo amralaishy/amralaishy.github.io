@@ -7,6 +7,9 @@
 🔗 [GitHub](https://github.com/amralaishy)  
 🔗 [LinkedIn](https://www.linkedin.com/in/amr-ahmed-ab89abb5/)
 
+assets/Amro_Eleishy_CV.pdf
+Download CV (PDF)
+
 ---
 
 ## Sections
