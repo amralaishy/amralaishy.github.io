@@ -94,8 +94,8 @@ hr {
 /* ===== Certificate Images ===== */
 .certificate {
   margin: 18px auto 36px auto;
-  width: 340px;     /* ✅ same width */
-  height: 220px;    /* ✅ same height */
+  width: 900px;     /* ✅ same width */
+  height: auto;    /* ✅ same height */
 }
 
 .certificate img {
