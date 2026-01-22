@@ -91,17 +91,20 @@ hr {
 
 
 
-/* ===== Certificate Section ===== */
+
+/* ===== Certificate Images ===== */
 .certificate {
-  margin-top: 16px;
+  margin: 18px 0 36px 0;
 }
 
 .certificate img {
-  max-width: 320px;
+  display: block;
+  max-width: 340px;
   width: 100%;
   border-radius: 10px;
   border: 1px solid #30363d;
   background-color: #ffffff;
-  padding: 10px;
+  padding: 12px;
 }
 ``
+
