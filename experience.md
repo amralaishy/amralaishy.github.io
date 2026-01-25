@@ -37,8 +37,16 @@ and Disaster recovery site using MPLS and SD-WAN .
 ## Network Consultant Engineer  
 **Cisco Kuwait – MOE (2020–2021)**
 
-- Managed Cisco Prime Infrastructure
-- Implemented CBPR, VSS, OSPF, Dot1X
+- Managing Cisco devices on Cisco Prime Infrastructure in different
+technologies, such as VSS, AAA, Dot1X, SNMP, OSPF, and STP.
+- Implementing Cisco configuration best practices on all devices
+(CBPR) in the Ministry of Education
+- Developing system infrastructure analysis report, executing, and
+upgrading devices (SIAR).
+- Implementing common service platform collectors, adding Cisco
+devices, collecting logs, and uploading reports to the Cisco portal
+(CSPC).
+
 
 ---
 
