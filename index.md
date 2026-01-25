@@ -11,7 +11,7 @@
 
 ## Sections
 - 🔹 [Skills](skills.md)
-- 🔹 [Experience](experience.md)
+- 🔹 [Work Experience](experience.md)
 - 🔹 [Certifications](certifications.md)
 - 🔹 [Projects](projects.md)
 - 📄 [Download CV](/assets/Amro_Eleishy_CV.pdf)
