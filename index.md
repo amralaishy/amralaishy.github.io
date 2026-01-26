@@ -10,7 +10,7 @@
 ---
 
 ## Sections
-- [Automation](automation.md)
+- [Scripts](Scripts.md)
 - [Skills](skills.md)
 - [Work Experience](experience.md)
 - [Certifications](certifications.md)
