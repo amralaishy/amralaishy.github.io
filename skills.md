@@ -11,7 +11,7 @@
 - High Availability (HA), Redundancy & Failover
 
 
-## Fortinet-Specific Expertise
+## Fortinet Expertise
 - FortiGate Configuration & Troubleshooting
 - FortiManager & FortiAnalyzer
 - Security Policies, NAT, VIPs
