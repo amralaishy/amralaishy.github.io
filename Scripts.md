@@ -1,9 +1,9 @@
 
 ---
 layout: page
-title: Automation
+title: Scripts
 ---
 
-# Automation
+# Scripts
 
 Write your automation projects, scripts, tools, or workflows here.
