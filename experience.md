@@ -50,8 +50,16 @@ devices, collecting logs, and uploading reports to the Cisco portal
 
 ---
 
-## Senior Telecom Engineer  
-**GTS – Kuwait (2017–2020)**
+## Senior Telecommunication Engineer
+**Global Technology Solutions (2017–2020)**
 
-- FortiGate firewalls, wireless & VOIP systems
-- Ensured 24/7 service availability
+- Designing, implementing, and administering the base network of all
+branches.
+- Managing Cisco wireless controllers and access points.
+Managing Huawei Espace VOIP phones and the Huawei IP telephony
+system.
+- Installing and configuring Cisco and Huawei switches.
+Managing the Huawei Virtual Desktop Infrastructure (VDI) system and
+OceanStore Huawei Storage Array.
+- Diagnosing and troubleshooting network and infrastructure systems
+in order to keep the systems up 24/7 with minimal downtime.
