@@ -10,10 +10,11 @@
 ---
 
 ## Sections
-- 🔹 [Skills](skills.md)
-- 🔹 [Work Experience](experience.md)
-- 🔹 [Certifications](certifications.md)
-- 🔹 [Projects](projects.md)
+- [Automation](automation.md)
+- [Skills](skills.md)
+- [Work Experience](experience.md)
+- [Certifications](certifications.md)
+- [Projects](projects.md)
 - 📄 [Download CV](/assets/Amro_Eleishy_CV.pdf)
 
 ---
