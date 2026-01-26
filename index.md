@@ -15,7 +15,7 @@
 - [Work Experience](experience.md)
 - [Certifications](certifications.md)
 - [Projects](projects.md)
-- 📄 [Download CV](/assets/Amro_Eleishy_CV.pdf)
+- [Download CV](/assets/Amro_Eleishy_CV.pdf)
 
 ---
 
