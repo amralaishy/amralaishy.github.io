@@ -63,3 +63,33 @@ Managing the Huawei Virtual Desktop Infrastructure (VDI) system and
 OceanStore Huawei Storage Array.
 - Diagnosing and troubleshooting network and infrastructure systems
 in order to keep the systems up 24/7 with minimal downtime.
+
+
+---
+
+## Network Engineer
+**Fast Telecommunication Co. (2012–2017)**
+
+- Design and implement network tasks and projects to support
+business requirements.
+- Diagnosing and troubleshooting of Network incidents.
+Formulating and maintaining proper documentation for all
+technology infrastructure changes, upgrades, problems and
+resolutions.
+- Managing Firewalls (Cisco, Fortinet).
+Managing Cisco Unified Communication Manager and Cisco Unified
+Contact Center.
+- Managing Milestone and Avigilon CCTV System.
+
+
+---
+
+## Network Engineer
+**Enhanced Engineering & Multi-Technologies (EEMC) (2010–2012)**
+
+- Configuring Cisco, HP switches, and routers.
+- Managing Cisco and Fortinet firewalls.
+- Managing CCTV and IP clock systems.
+
+
+
